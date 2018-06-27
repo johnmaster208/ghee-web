@@ -1,0 +1,9 @@
+{
+  "name": "ghee-web",
+  "version": "1.0.0",
+  "description": "react web framework",
+  "main": "index.js",
+  "repository": "https://github.com/johnmaster208/ghee-web.git",
+  "author": "John Richardson <johnmaster208@gmail.com>",
+  "license": "MIT"
+}
